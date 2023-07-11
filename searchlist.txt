@@ -1,2 +1,2 @@
 bing.com
-google.com
+www.google.com
